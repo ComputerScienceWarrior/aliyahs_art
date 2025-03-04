@@ -1,0 +1,13 @@
+.homepage-header{
+    font-size: 24px;
+    letter-spacing: 1px;
+    color: pink;
+}
+
+.homepage-container{
+    display: flex;
+    justify-content: center;
+    background-color: purple;
+    height: auto;
+    height: 100em;
+}
